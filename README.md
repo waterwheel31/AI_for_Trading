@@ -1,4 +1,4 @@
-# AI for Tradings 
+# AI for Trading
 
 
 <img src='markus-spiske-5gGcn2PRrtc-unsplash.jpg' width = "400">
